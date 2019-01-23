@@ -1,0 +1,1 @@
+# enclencher le choix utilisateur (qui sera retourné avec le gets.chomp de la view)

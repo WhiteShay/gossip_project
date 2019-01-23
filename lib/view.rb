@@ -1,0 +1,2 @@
+# gets.chomp utilisateur
+# puts
